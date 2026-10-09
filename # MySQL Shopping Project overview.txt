@@ -1,0 +1,35 @@
+# MySQL Shopping Project
+
+## Overview
+
+A shopping database management project developed using MySQL.
+
+## Database Tables
+
+* Customer
+* Category
+* Product
+* Orders
+* Order_Items
+* Invoice
+* Payment
+
+## Concepts Used
+
+* DDL and DML commands
+* Primary and foreign keys
+* Joins
+* Aggregate functions
+* GROUP BY and HAVING
+* Subqueries
+* Data filtering and sorting
+
+## Tools Used
+
+* MySQL
+* MySQL Workbench
+* Git and GitHub
+
+## How to Run
+
+ Open MySQL Workbench.
